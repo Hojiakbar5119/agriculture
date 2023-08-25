@@ -33,14 +33,78 @@
 // debugger
 // console.log((true && "hey"));
 
-
-
 // console.log(1 !== "0" || (true && "hey"));
 
-// bundan keyin   true qolganini hisoblamay ketvoradi dediz 
+// bundan keyin   true qolganini hisoblamay ketvoradi dediz
 
-// endi  siz 
-console.log(1 !== "0" || true && "hey");
-// bu bo'lganda  
+// endi  siz
+// console.log(1 !== "0" || true && "hey");
+// bu bo'lganda
 //  true || true bo'lib qoladi demoqchidiz
-// men true || hey bo'ladi deb o'ylagapman 
+// men true || hey bo'ladi deb o'ylagapman
+
+// let temp="Ecmascript"
+
+// if(temp=="Ecmascript"){
+//     console.log("Right");
+// }else{
+//     console.log("You don't know 'Ecmascript'");
+// }
+
+// console.log(0 || '1');
+// console.log(0 ?? '1');
+// console.log(0 ?? 1);
+// console.log(0 || 1);
+
+// let temp = 3;
+// switch (temp) {
+//   case 1:
+//     console.log("bulut");
+//     break;
+//   case 2:
+//     console.log("yomgir");
+//     break;
+//   case 3:
+//     console.log("qor");
+//     break;
+//   case 4:
+//     console.log("shamol");
+//     break;
+
+//   default:
+//     console.log("undan nomalum obhavo");
+//     break;
+// }
+
+
+// jfjhgd
+
+
+// let weeks="Tuesday";
+
+// switch (weeks) {
+//     case "Monday":
+//         console.log("Need go for works");
+//         break;
+//     case "Tuesday":
+//         console.log("Need go for walks");
+//         break;
+//     case "Wednesday":
+//         console.log("I play footbal");
+//         break;
+//     case "Thursday":
+//         console.log("Coding days");
+//         break;
+//     case "Friday":
+//         console.log("Need go for Juma mosque");
+//         break;
+//     case "Satuday":
+//         console.log("I'm going to Valley");
+//         break;
+//     case "Sunday":
+//         console.log("Rest in my house");
+//         break;
+//     default:
+//         console.log("repeat days")
+//         break;
+// }
