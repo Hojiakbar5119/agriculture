@@ -108,3 +108,32 @@
 //         console.log("repeat days")
 //         break;
 // }
+
+
+// function drawPattern(rows) {
+//     for (let i = 1; i <= rows; i++) {
+//         let space = ' '.repeat(rows - i);
+//         let stars = '* '.repeat(i);
+//         console.log(space + stars);
+//     }
+// }
+
+// drawPattern(5);
+
+
+// function drawPattern(rows) {
+//     for (let i = 1; i <= rows; i++) {
+//       let spaces = ' '.repeat(rows - i);
+//       let stars = '* '.repeat(i);
+//       console.log(spaces + stars);
+//     }
+    
+//     for (let i = rows - 1; i >= 1; i--) {
+//       let spaces = ' '.repeat(rows - i);
+//       let stars = '* '.repeat(i);
+//       console.log(spaces + stars);
+//     }
+//   }
+  
+//   drawPattern(5);
+  
